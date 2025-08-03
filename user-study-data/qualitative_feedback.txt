@@ -1,0 +1,21 @@
+Qualitative Feedback from User Study
+
+---
+**Participant 4:**
+"The baseline model was okay, but I spent most of my time just trying to figure out what the code was even trying to do. With the new system, the explanations were like having a mini-code review built-in. The algorithmic choices were clearly articulated, which made it easier to understand the core logic even before looking at the code itself."
+
+---
+**Participant 7:**
+"I felt much more confident accepting the AI-generated code because I could see the reasoning behind it, and the confidence score helped me gauge when to be more cautious. Knowing the model's confidence before diving deep allowed me to prioritize my review efforts efficiently. The baseline felt like a complete guess."
+
+---
+**Participant 11:**
+"The explanations immediately drew my attention to the risky parts of the code. That's probably why I found the bug so much faster with the new system. It's not just about getting the code; it's about understanding its potential weaknesses."
+
+---
+**Participant 18:**
+"For very large code snippets, the explanation became a bit overwhelming; a high-level summary would be really helpful. It's a good problem to have, I guess, too much information. But for quick reviews, it can create a bit of cognitive load."
+
+---
+**Participant 19:**
+"The explanations were great for debugging. They pointed out potential issues I might have missed otherwise, leading to a much higher correct bug identification rate on my part. I caught the error in the second task almost instantly because the explanation mentioned how it handled a specific edge case, and I knew that was a common place for bugs."
